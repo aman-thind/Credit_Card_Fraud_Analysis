@@ -5,3 +5,4 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 
 Due to confidentiality issues, the input variables are transformed into numerical using PCA transformations.
 
+Dataset taken from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
