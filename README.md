@@ -19,7 +19,7 @@ Dataset taken from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 - numpy -  number python library
 - pandas - data handling library
 
-<img src="https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png" width="500" height="400">
+<img src="https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png" width="570" height="400">
 
 
 
