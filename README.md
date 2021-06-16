@@ -16,10 +16,9 @@ Dataset taken from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 - Jupyter notebook 
 - sklearn - Machine learning library
 - seaborn, matplotlib.pyplot, - Visualization libraries
-- numpy, scipy- number python library
+- numpy -  number python library
 - pandas - data handling library
-- XGBoost - Used for making regression models
-- Surprise - used for making recommendation system models
+
 
 
 ![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png)
