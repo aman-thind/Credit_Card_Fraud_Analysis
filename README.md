@@ -19,10 +19,8 @@ Dataset taken from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 - numpy -  number python library
 - pandas - data handling library
 
-<img src="https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png" width="100" height="100">
-![](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png=250x250)
+<img src="https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png" width="400" height="400">
 
-![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png=250x250)
 
 
 
