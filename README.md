@@ -15,7 +15,7 @@ Dataset taken from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 ## Build with
 - Jupyter notebook 
 - sklearn - Machine learning library
-- seaborn, matplotlib.pyplot, - Visualization libraries
+- seaborn, matplotlib - Visualization libraries
 - numpy -  number python library
 - pandas - data handling library
 
