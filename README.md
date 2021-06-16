@@ -20,8 +20,8 @@ Dataset taken from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 - pandas - data handling library
 
 
+![](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png=250x250)
 
-![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png)
 
 
 ## Author
